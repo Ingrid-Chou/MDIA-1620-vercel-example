@@ -13,12 +13,12 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hi my name is Ingrid
+          Ingrid
         </h1>
 
         <p className={styles.description}>
-          What does C.R.U.D. stand for?{' '}
-          <code className={styles.code}>pages/index.js</code>
+          What does <code className={styles.code}>C.R.U.D.</code> stand for?{' '}
+          
         </p>
 
         <div className={styles.grid}>
